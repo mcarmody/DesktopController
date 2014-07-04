@@ -1,0 +1,3 @@
+This Alpha SDK is confidential and not for re-distribution.
+Use is governed by the terms of your agreement with Thalmic.
+Please contact Thalmic if you are unsure of the license terms governing your use of this Alpha SDK.
